@@ -1,0 +1,23 @@
+body{
+    background-color: thistle;
+}
+
+p,h1,h2,ol,ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: ;
+}
+
+
+
+h2{
+    font-size: 1.3rem;
+}
+
+p{
+    line-height:1.4 em ;
+}
+
