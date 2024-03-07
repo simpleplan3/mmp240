@@ -15,5 +15,28 @@ header{
     background-image: url("images/ws-banner.png");
     background-repeat: no-repeat;
     background-position: top right;
+    background-size:70% ;
+    background: url(images/ws-banner.pgn) no-repeat top right/70%,
+                black;
+    padding: ;
 
+
+/* {
+    width: 300px;
+
+}p */
+.banner-text{
+    width: 30%;
+    color:white;
+}
+
+.btn{
+    display: block;
+    background-color: darkred;
+    color:white;
+    padding:10px;
+    border-radius:10px;
+    width:5em;
+    text-align: center;
+    text-decoration: ;
 }
