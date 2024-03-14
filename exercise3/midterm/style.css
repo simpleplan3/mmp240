@@ -4,11 +4,15 @@
     margin-right:auto;
     background-color:white;
     padding : 1em;
-
+    border:none;
 }
 
 body{
     background-color:black ;
+}
+
+p{
+    margin-bottom: 1em;
 }
 header{
     background-color:black ;
@@ -18,7 +22,8 @@ header{
     background-size:70% ;
     background: url(images/ws-banner.pgn) no-repeat top right/70%,
                 black;
-    padding: ;
+    padding:2em ;
+}
 
 
 /* {
@@ -39,4 +44,41 @@ header{
     width:5em;
     text-align: center;
     text-decoration: ;
+}
+ 
+
+
+
+nav a{
+    color:black;
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: overline ;
+}
+nav li{
+    display:inline-block;
+    margin-right: 10px;
+    /* margin-right: 1em; */
+    /* background-color: crimson; */
+    padding: 10px ;
+}
+
+
+
+
+.col-left{
+      float :left;
+      width:48%;
+}
+
+.col-right{
+    float: right;
+    width:48%;
+}
+
+main{
+    padding:2em ;
+
 }
