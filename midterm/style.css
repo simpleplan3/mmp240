@@ -85,3 +85,17 @@ main{
 footer{
     clear: both;
 }
+
+
+
+/********************Epsidoes*****************/
+.flex-layout{
+    display:flex;
+    flex-wrap:warp;
+
+}
+
+card{
+    width:22%;
+    margin: 1em;
+}
