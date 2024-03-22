@@ -46,11 +46,13 @@ header{
     text-decoration: none ;
 }
  
-
+nav {
+    background-color: darkred;
+}
 
 
 nav a{
-    color:black;
+    color:white;
     text-decoration: none;
 }
 
@@ -91,11 +93,14 @@ footer{
 /********************Epsidoes*****************/
 .flex-layout{
     display:flex;
-    flex-wrap:warp;
+    flex-wrap:wrap;
 
 }
 
-card{
+.card{
     width:22%;
     margin: 1em;
+}
+.imagecard{
+    width: 100%;
 }
